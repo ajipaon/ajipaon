@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://raw.githubusercontent.com/ajipaon/ajipaon/refs/heads/master/man_muslim.png" width = 40px></picture> **About me**
 
 <br>
 
