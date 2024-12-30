@@ -23,11 +23,11 @@
 
 <h2 align="center">👨‍💻 Open Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
+<div width="100%" align="center" style="margin-bottom: 10px;">
   
   <a align="left" href="https://github.com/ajipaon/authjsgo" title="authjsgo"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajipaon&repo=authjsgo&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-  <div width="100%" align="center">
+  <div width="100%" align="center" style="margin-bottom: 10px;">
     <a align="left" href="https://github.com/ajipaon/authjsgo" title="authjsgo"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajipaon&repo=authjsgo&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div>
