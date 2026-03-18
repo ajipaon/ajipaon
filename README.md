@@ -9,7 +9,6 @@
 🚀 Backend Developer passionate about building robust and scalable systems
 💻 Specialized in server-side development, APIs, and database architecture
 🔧 Always learning new technologies and best practices
-📍 Based in Salatiga, Central Java, Indonesia
 ```
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ajipaon&color=blueviolet)
@@ -34,13 +33,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ajipaon&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p>
 
-## 🚀 Featured Projects
-
-<div width="100%" align="center">
-  <a href="https://github.com/ajipaon/authjsgo" title="authjsgo">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ajipaon&repo=authjsgo&theme=tokyonight&border_color=61dafb&border_radius=10">
-  </a>
-</div>
 
 <br/>
 
